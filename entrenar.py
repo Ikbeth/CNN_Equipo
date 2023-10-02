@@ -19,8 +19,8 @@ data_validacion = './Prueba'
 epocas = 20
 alto, largo = 300, 300 #dimensiones de las imagenes. Para redimenzionar
 batch_size = 15 #numero de imagenes que se mandara a procesar por cada paso
-pasos = 43
-pasos_validacion = 3
+pasos = 28
+pasos_validacion = 12
 
 kernel1 = (3, 3)
 kernel2 = (2, 2)
